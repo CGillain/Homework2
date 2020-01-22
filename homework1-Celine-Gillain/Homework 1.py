@@ -15,7 +15,6 @@ yourname = input("Please enter your name: ")
 print("Hello", yourname,"!")
 
 
-
 ### Second Question ###
 
 # 2. Write a program that takes 2 numbers as input and prints the rounded up division.
