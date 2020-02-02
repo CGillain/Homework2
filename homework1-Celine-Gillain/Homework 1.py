@@ -22,6 +22,8 @@ print("Hello", yourname,"!")
 # Inputting 2 numbers
 x, y = [float(x) for x in input("Enter two numbers here (separated by a space): ").split()]
 
+### Could have used int ((x/y) + 0.5)
+
 # Dividing these 2 numbers
 division = x/y
 
