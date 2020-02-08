@@ -5,10 +5,10 @@
 ### Guidelines:
 
 # Write a program that prints the longest substring of s in which the letters occur in alphabetical order.
-# For example, if s = 'azcbobobegghakl', then your program should print:Longest substring in alphabetical order is: beggh
+# For example, if s = 'azcbobobegghakl', then your program should print: Longest substring in alphabetical order is: beggh
 
 # In the case of ties, print the first substring. For example, if s = 'abcbcd',
-# then your program should print:Longest substring in alphabetical order is: abc
+# then your program should print:Longest substring in alphabetical order is: abc
 
 # Input
 s = input(" Please enter any string of letters: ")
