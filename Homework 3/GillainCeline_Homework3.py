@@ -27,4 +27,4 @@ for i in s[1:]:
             substring = string
     else:
         string = i
-print ("Longest substring in alphabetical order is:", substring)
+print("Longest substring in alphabetical order is:", substring)
